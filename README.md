@@ -1,4 +1,4 @@
-# IAT360-ComputerVisionProject
+# IAT360 - Computer Vision Project
 Authors: Tsang Ariel Sum Yu & Hin Kiu Wong Stephy
 
 Link to Kaggle dataset: 
